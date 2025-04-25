@@ -20,9 +20,9 @@ This app will provide a space where small dealerships can have a simple app that
 
 [Evaluation of your app across the following attributes]
 - **Category:** List 
-- **Mobile:** mobile-first experience.
+- **Mobile:** Mobile-first experience.
 - **Story:** Helps dealerships showcase and manage their vehicle inventory quickly and easily on the go.
-- **Market:** ny small dealership or car reseller needing better mobile inventory tools. A clear and underserved niche.
+- **Market:** Small dealership or car reseller needing better mobile inventory tools. A clear and underserved niche.
 - **Habit:** Used multiple times a day to upload cars, Daily workflow tool.
 - **Scope:** Vehicle details form, inventory list. Scalable later with website sync or customer chat.
 
@@ -42,13 +42,8 @@ This app will provide a space where small dealerships can have a simple app that
 
 ### 2. Screen Archetypes
 
-- [ ] [Home Screen (Inventory List)]
+- [x] [Home Screen (Inventory List)]
 * [User can view a list of all vehicles in the inventory. 
-
-
-
-* User can tap on a vehicle to view its full details
-
 
 Add Vehicle Screen]
 * User can add a new vehicle by entering basic details
@@ -63,11 +58,8 @@ Add Vehicle Screen]
 
 **Flow Navigation** (Screen to Screen)
 
-- [ ] [Homescreen]
-* [Tap on car - navigates to car detail screen ]
-* ...
-- [ ] [Add vehicle Screen]
-* [tap submit - navigates back to home screen]]
+- [x] [Homescreen]
+- [x] [Add vehicle Screen]
 * ...
 
 ## Wireframes
