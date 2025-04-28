@@ -63,7 +63,8 @@ Add Vehicle Screen]
 * ...
 
 ## Wireframes
-<img src="https://github.com/FaisalA-dev/DealerInventoryManager-/raw/main/wireframe%20(1).jpg" width="600">
+<img src="https://github.com/FaisalA-dev/DealerInventoryManager/raw/main/wireframe%20(1).jpg" width="600">
+
 
 
 
