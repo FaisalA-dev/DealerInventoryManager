@@ -63,9 +63,8 @@ Add Vehicle Screen]
 * ...
 
 ## Wireframes
-<img src="https://github.com/FaisalA-dev/DealerInventoryManager-/blob/main/wireframe.jpg?raw=true" width="600">
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://github.com/FaisalA-dev/DealerInventoryManager-/raw/main/wireframe.jpg" width="600">
+
 
 ## Sprintweek 
 Sprint Week 1: Thought process. I spent time thinking how my app should operate. I spent time designing how my app will look and how each screen will look
