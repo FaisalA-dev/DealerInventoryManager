@@ -88,3 +88,6 @@ Car	make: String, model: String, year: Int, price: Double, image: File, status: 
 ### Networking
 
 - My app will not need any API's.
+
+## video 
+https://www.loom.com/share/f8cca4ed32e94d2c88b3bf78e4717054?sid=d9fad341-724e-4493-959f-6f7e8af563b7
